@@ -24,9 +24,9 @@ source ./venv3/bin/activate
 pip3 install -r requirements_3.txt
 ###############
 ## For python3.10
-python3 -m venv venv3.10
+python3.10 -m venv venv3.10
 source ./venv3.10/bin/activate
-pip3 install -r requirements_3.10.txt
+pip3.10 install -r requirements_3.10.txt
 ###############
 ## etc.
 ```
