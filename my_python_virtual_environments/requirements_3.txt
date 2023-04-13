@@ -1,3 +1,7 @@
 beautifulsoup4
 pillow
-
+inquirer
+transformers
+datasets
+torch
+tensorflow
