@@ -7,4 +7,6 @@ torch
 tensorflow
 boto3
 timm
-
+camelot-py
+opencv-python
+ghostscript
