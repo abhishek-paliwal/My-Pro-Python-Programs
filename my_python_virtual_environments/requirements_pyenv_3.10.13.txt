@@ -1,0 +1,6 @@
+beautifulsoup4
+pillow
+google-cloud-texttospeech
+google-cloud-translate
+inquirer
+google-cloud-documentai
