@@ -11,3 +11,5 @@ camelot-py
 opencv-python
 ghostscript
 python-frontmatter
+pytesseract
+
