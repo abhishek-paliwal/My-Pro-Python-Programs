@@ -4,3 +4,4 @@ google-cloud-texttospeech
 google-cloud-translate
 inquirer
 google-cloud-documentai
+google-cloud-aiplatform
