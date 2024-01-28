@@ -12,4 +12,5 @@ opencv-python
 ghostscript
 python-frontmatter
 pytesseract
-
+python-rake
+newspaper3k
