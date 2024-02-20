@@ -14,3 +14,4 @@ python-frontmatter
 pytesseract
 python-rake
 newspaper3k
+csvkit
