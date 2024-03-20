@@ -16,3 +16,4 @@ python-rake
 newspaper3k
 csvkit
 openai
+markdown 
