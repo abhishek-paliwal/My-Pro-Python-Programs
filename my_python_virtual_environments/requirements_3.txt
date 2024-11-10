@@ -17,3 +17,5 @@ newspaper3k
 csvkit
 openai
 markdown 
+gradio
+streamlit
